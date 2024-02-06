@@ -1,4 +1,4 @@
-# Kookmin University - Software Major - First Year Projects
+# Kookmin University - Software Major - First Year Projects
 
 This is a collection of projects I developed during my first year as a Software major at Kookmin University.
 
